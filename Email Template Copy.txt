@@ -1,0 +1,46 @@
+(First row, one column)
+
+**Discover your new favorite city.** 
+
+Whether you're looking for fast paced glitz and glam or a quiet night under the stars, Los Angeles has something for you. Home to 3.976 million people, this bustling city always has something new to see.
+
+Learn More ([https://www.discoverlosangeles.com]())
+
+------------------------
+
+(Second row, three columns)
+
+_(Column 1)_
+
+**Casa De Cadillac**
+
+A well-known landmark of San Fernando Valley Modernism, Casa de Cadillac has been showcasing cars continuously since 1949, but only recently has it been restored to its original grandeur.
+
+Learn More ([https://www.laconservancy.org/locations/casa-de-cadillac]()) 
+
+_(Column 2)_
+
+**The Last Bookstore**
+
+The Last Bookstore is touted as California’s largest used and new book and record store. Don't miss out on visiting their Labyrinth Above the Last Bookstore or the Spring Arts Collective on the mezzanine level!
+
+Learn More ([http://lastbookstorela.com/]())
+
+(Column 3)
+
+**The Hollywood Sign**
+
+Probably one of the world's most iconic symbols. While it's true you can no longer walk up to the Hollywood sign, there are still many great places you can snap a great photograph from.
+
+Learn More ([https://hollywoodsign.org/]()) 
+
+------------------------
+
+(Third row, two columns)
+
+**The Griffith Observatory**
+
+Catch a glimpse of the stars and planets at Southern California's gateway to the cosmos. See live shows in the planetarium, explore exhibits and learn more about the beautiful galaxy that we all call home.
+
+Learn More ([http://griffithobservatory.org]())
+
