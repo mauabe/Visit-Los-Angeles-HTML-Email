@@ -42,5 +42,6 @@ Learn More ([https://hollywoodsign.org/]())
 
 Catch a glimpse of the stars and planets at Southern California's gateway to the cosmos. See live shows in the planetarium, explore exhibits and learn more about the beautiful galaxy that we all call home.
 
-Learn More ([http://griffithobservatory.org]())
+Learn More ([
+]())
 
